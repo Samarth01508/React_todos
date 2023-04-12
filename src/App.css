@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+.heading {
+  text-align: center;
+  font-size: 30px;
+}
+#task-input-bar {
+  margin-top: 20px;
+  margin-left: 10px;
+  padding: 5px 5px 5px 5px;
+  border: none;
+  border-bottom: 1px solid black;
+  outline: none;
+  font-family: monospace;
+  font-size: 20px;
+}
+#addTask-button {
+  margin: 5px;
+  cursor: pointer;
+  background-color: #abef9c;
+  border: 2px solid #111;
+  border-radius: 4px;
+  font-family: sans-serif;
+  font-size: 15px;
+  line-height: 20px;
+  padding: 2px 20px;
+}
