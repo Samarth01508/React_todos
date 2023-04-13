@@ -26,3 +26,6 @@
   line-height: 20px;
   padding: 2px 20px;
 }
+.tasklist-element{
+  list-style: none;
+}
